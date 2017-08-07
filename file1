@@ -2,4 +2,8 @@ test1
 test_master
 aaa
 test_branch
+<<<<<<< HEAD
 
+=======
+update
+>>>>>>> test_branch
