@@ -1,3 +1,5 @@
 #! /usr/bin/perl
 
-print "Hello perl!"
+print 5x4.8."\n";
+print "aaaa"
+
